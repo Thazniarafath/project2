@@ -1,0 +1,197 @@
+.line{
+    background-color: white;
+    height:1px;
+    width: 250px;
+    margin: 20px;
+}
+section.sec1{
+    padding: 40px;
+    margin: auto;
+   
+    
+}
+section.sec2{
+    background-color: cornflowerblue;
+     padding: 60px;
+    margin: auto;
+   
+}
+.innerbox2{
+    padding: 30px;
+    margin: 30px;
+}
+
+.innerbox3{
+    padding: 80px;
+    margin: 50px;
+    color: white;
+}
+p.visit{
+    padding: 20px;
+   
+}
+p.ultimate{
+    padding: 20px;
+    
+}
+a.book{
+    padding: 5px;
+    background-color: white;
+    margin: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: inline-block;
+    text-decoration: none;
+    
+}
+.innerbox4{
+    text-align: center;
+    margin: 20px;
+    padding: 40px;
+}
+a.suits{
+    border-color: cornflowerblue;
+    border-style: solid;
+    text-decoration: none;
+    margin: 20px;
+    display: inline-block;
+
+}
+.line2{
+    height: 1px;
+    width: 250px;
+    background-color: blue;
+ 
+    margin:auto;
+
+}
+section.sec4{
+    background-color: cornflowerblue;
+    padding: 80px;
+    margin: auto;
+
+}
+.innerbox5{
+    color: white;
+    text-align: center;
+}
+.innerbox6{
+    color: white;
+    text-align: center;
+}
+.innerbox7{
+    color: white;
+    text-align: center;
+}
+img.men{
+    padding: 10px;
+}
+section.sec5{
+    background-color: darkcyan;
+    text-align: center;
+    padding: 40px;
+    margin: auto;
+    
+}
+p.m{
+    color: white;
+    text-align: center;
+}
+p.s{
+    color: white;
+    text-align: center;
+}
+p.a{
+    color: white;
+    text-align: center;
+}
+p.g{
+    color: white;
+    text-align: center;
+}
+h1.visit{
+    color: white;
+    text-align: center;
+}
+h1.indicho{
+    color: black;
+    text-align: center;
+    margin: auto;
+    padding: 5px;
+    
+}
+.line3{
+    width: 200px;
+    height: 1px;
+    background-color: black;
+    margin: auto;
+
+    
+   
+}
+.innerbox9 img{
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+    object-position: top;
+}
+.innerbox9{
+    margin-top: 40px;
+   
+}
+.sec7{
+    padding: 80px;
+    margin: auto;
+}
+.innerbox10{
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+
+    color: white;
+}
+section.sec6{
+    background-color: darkslategrey;
+    padding: 60px;
+    margin: auto;
+}
+a.appointment{
+    background-color: white;
+    margin: auto;
+    padding: 5px;
+    text-decoration: none;
+
+}
+.innerbox11{
+    text-align: center;
+}
+img.unnamed{
+    height: 100px;
+    width: 150px;
+}
+
+.innerbox2 img{
+    height: auto;
+}
+
+@media(max-width:552px){
+    .innerbox2 img{
+        width: 100%;
+    }
+}
+h1.toogood{
+    padding: 30px;
+    margin: auto;
+}
+p.forbes{
+    padding: 30px;
+    margin: auto;
+
+}
+section.sec8{
+    padding: 50px;
+    margin: auto;
+}
+p.we{
+    padding: 50px;
+    margin: auto;
+}
